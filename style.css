@@ -147,7 +147,7 @@ h2 {
     min-height: 260px;
     padding: 28px;
     color: #fff;
-    font-size: 11px;
+    font-size: 14px;
     display: flex;
     flex-direction: column; 
     gap: 20px;
@@ -192,7 +192,7 @@ h2 {
 }
 
 .certificate p {
-    font-size: 10px;
+    font-size: 14px;
     margin: 8px 0 0px;
     line-height: 1.35;
 }
@@ -201,7 +201,7 @@ h2 {
     padding: 0;
     margin: 0;
     list-style: none;
-    font-size: 10px;
+    font-size: 14px;
     line-height: 1.6;
     font-weight: 700;
 }
@@ -229,7 +229,7 @@ h2 {
 
 .about p,
 .about ol {
-    font-size: 12px;
+    font-size: 14px;
     line-height: 1.15;
     margin: 0 0 11px
 }
@@ -292,7 +292,7 @@ h2 {
 }
 
 .market__text p {
-    font-size: 12px;
+    font-size: 14px;
     line-height: 1.22;
     margin: 0 0 22px;
     font-weight:lighter;
@@ -318,7 +318,7 @@ h2 {
     text-align: center;
     min-height: 87px;
     padding: 12px 7px 8px;
-    font-size: 11px;
+    font-size: 14px;
     font-weight: 700;
 
 }
@@ -403,7 +403,7 @@ footer {
     grid-template-columns: repeat(5, 1fr);
     gap: 10px;
     color: #4a4a4a;
-    font-size: 10px
+    font-size: 14px
 }
 
 .footer__inner nav strong {
@@ -521,7 +521,7 @@ footer {
     }
 
     .hero p {
-        font-size: 11px
+        font-size: 14px
     }
 
     .hero__copy {
